@@ -10,5 +10,5 @@
 ## authentication && authorization
 ## error handling
 ## middleware
-## sess and cookie
+## sessions and cookie
 ##
